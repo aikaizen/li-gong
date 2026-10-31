@@ -1,0 +1,6 @@
+# Harvested source text/media stays local (author's copyright); only links, short excerpts and our own work are published.
+graph/raw/
+graph/state.json
+graph/processed/ligong_matches.json
+__pycache__/
+*.wav
