@@ -1,9 +1,39 @@
 # Translations
 
-This folder holds English translations of 마리지천's ([@z9_s8_y_9](https://x.com/z9_s8_y_9)) teaching posts. There is one file per day, at `YYYY/MM/YYYY-MM-DD.md`, using the Korea date (KST) the post went up. Within a day, posts run newest first, and each links to its original.
+This folder holds English translations of 마리지천's ([@z9_s8_y_9](https://x.com/z9_s8_y_9)) posts, from 2026-08-01 onward (KST). Teachings and essays have their own titled sections; short replies are grouped at the end of each day under *Replies*. Key terms are listed in [GLOSSARY.md](GLOSSARY.md), and [posts_en.jsonl](posts_en.jsonl) has every translation in machine-readable form. There is one file per day, at `YYYY/MM/YYYY-MM-DD.md`, using the Korea date (KST) the post went up. Within a day, posts run newest first, and each links to its original.
 
-**Hand-seal key used throughout (신기문 身奇門):** each hand forms a trigram by touching fingers to the thumb. Index, middle, and ring finger stand for the bottom, middle, and top line. A finger touching the thumb is a solid (yang) line, and a lifted finger is a broken (yin) line. So Qian ☰ is all three fingers on the thumb, Li ☲ is index and ring on with the middle lifted, and Gen ☶ is the index alone on the thumb. Two hands together make a hexagram: the right hand gives the lower trigram and the left hand the upper.
+**Hand-seal key used throughout (신기문 身奇門):** each hand forms a trigram by touching fingers to the thumb. A finger touching the thumb is a solid (yang) line, and a lifted finger is a broken (yin) line. The index finger is the TOP line, the middle finger the middle line, and the ring finger the BOTTOM line. So Qian ☰ is all three fingers on the thumb, Zhen ☳ is the ring finger alone, Gen ☶ is the index alone, Dui ☱ is middle + ring, Xun ☴ is index + middle, and Li ☲ is index + ring with the middle lifted. Two hands together make a hexagram: the right hand gives the upper (outer) trigram and the left hand the lower (inner) one. For example, Heaven-Wind, Coming to Meet (천풍구 天風姤 ䷫) is right-hand Qian over left-hand Xun. In internal alchemy, he adds, the lower trigram stands for Former Heaven (선천 先天) and the upper for Later Heaven (후천 後天) (post of Oct 26, 2026). *(This key was corrected on Oct 31, 2026. An earlier version had the hands and the line order reversed.)*
 
 ## Index
-- [2026-10-31](2026/10/2026-10-31.md): 2 posts
-- [2026-10-30](2026/10/2026-10-30.md): 3 posts
+- [2026-11-01](2026/11/2026-11-01.md): 1 post (0 main, 1 reply)
+- [2026-10-31](2026/10/2026-10-31.md): 10 posts (5 main, 5 replies)
+- [2026-10-30](2026/10/2026-10-30.md): 7 posts (3 main, 4 replies)
+- [2026-10-29](2026/10/2026-10-29.md): 7 posts (4 main, 3 replies)
+- [2026-10-28](2026/10/2026-10-28.md): 3 posts (1 main, 2 replies)
+- [2026-10-27](2026/10/2026-10-27.md): 3 posts (1 main, 2 replies)
+- [2026-10-26](2026/10/2026-10-26.md): 3 posts (1 main, 2 replies)
+- [2026-10-25](2026/10/2026-10-25.md): 9 posts (5 main, 4 replies)
+- [2026-10-24](2026/10/2026-10-24.md): 8 posts (5 main, 3 replies)
+- [2026-10-23](2026/10/2026-10-23.md): 10 posts (6 main, 4 replies)
+- [2026-10-22](2026/10/2026-10-22.md): 4 posts (2 main, 2 replies)
+- [2026-10-21](2026/10/2026-10-21.md): 5 posts (1 main, 4 replies)
+- [2026-10-20](2026/10/2026-10-20.md): 12 posts (6 main, 6 replies)
+- [2026-10-19](2026/10/2026-10-19.md): 11 posts (4 main, 7 replies)
+- [2026-10-18](2026/10/2026-10-18.md): 11 posts (5 main, 6 replies)
+- [2026-10-17](2026/10/2026-10-17.md): 17 posts (4 main, 13 replies)
+- [2026-10-16](2026/10/2026-10-16.md): 9 posts (1 main, 8 replies)
+- [2026-10-15](2026/10/2026-10-15.md): 9 posts (3 main, 6 replies)
+- [2026-10-14](2026/10/2026-10-14.md): 15 posts (6 main, 9 replies)
+- [2026-10-13](2026/10/2026-10-13.md): 5 posts (2 main, 3 replies)
+- [2026-10-12](2026/10/2026-10-12.md): 5 posts (0 main, 5 replies)
+- [2026-10-11](2026/10/2026-10-11.md): 9 posts (2 main, 7 replies)
+- [2026-10-10](2026/10/2026-10-10.md): 1 post
+- [2026-10-09](2026/10/2026-10-09.md): 4 posts (3 main, 1 reply)
+- [2026-10-07](2026/10/2026-10-07.md): 1 post (0 main, 1 reply)
+- [2026-10-05](2026/10/2026-10-05.md): 4 posts (0 main, 4 replies)
+- [2026-10-04](2026/10/2026-10-04.md): 13 posts (1 main, 12 replies)
+- [2026-10-03](2026/10/2026-10-03.md): 1 post (0 main, 1 reply)
+- [2026-10-02](2026/10/2026-10-02.md): 13 posts (1 main, 12 replies)
+- [2026-10-01](2026/10/2026-10-01.md): 5 posts (1 main, 4 replies)
+- [2026-09-30](2026/09/2026-09-30.md): 17 posts (4 main, 13 replies)
+- [2026-09-29](2026/09/2026-09-29.md): 8 posts (2 main, 6 replies)
