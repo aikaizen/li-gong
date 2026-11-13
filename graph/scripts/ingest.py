@@ -14,7 +14,7 @@ seg=sys.argv[1]
 ids={k:load_ids(f'{RAW}/{k}.jsonl') for k in ('posts','referenced','media')}
 for fn in sys.argv[2:]:
     t=open(fn).read()
-    i=t.find('{"'); d,end=json.JSONDecoder().raw_decode(t[i:])
+    i=t.find('{"'); d,end=json.JSONDecoder(strict=False).raw_decode(t[i:])
     m=re.search(r'(\d+) of 1000 today',t[i+end:]); mm=re.search(r'(\d+) of 30 this minute',t[i+end:])
     ts=datetime.datetime.now().strftime('%Y%m%dT%H%M%S%f')
     shutil.copy(fn,f'{RAW}/pages/{seg}_{ts}.txt')
