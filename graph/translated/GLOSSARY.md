@@ -48,6 +48,21 @@ These are the renderings used across the translations, kept the same in every fi
 | 바수다라 | | Vasudhara | wealth goddess |
 | 라 / 양 | bla / gYang | la (life force) / yang (field of prosperity) | Tibetan terms |
 | 금강권 | 金剛拳 | vajra fist | thumb pressed at the root of the ring finger |
+| 부동심 | 不動心 | unmoving mind | |
+| 자율신경 범람 | | autonomic spillover | both branches of the autonomic nervous system on at once |
+| 각성계 / 고요계 | | arousal system / quiescence system | his names for sympathetic / parasympathetic |
+| 선정 | 禪定 | meditative absorption; dhyāna (3선정 = third dhyāna) | |
+| 철벽 | 鐵壁 | iron wall | the taut chest "wall" of the 3rd dhyāna |
+| 밝은 성품 | | bright nature | |
+| 선열 | 禪悅 | joy of meditation | |
+| 갈비뼈 순화 | | rib purification | horizontal front-back chest circuit |
+| 영대 | 靈臺 | Lingtai | point on the spine; he places it around T5 |
+| 명문 | 命門 | Mingmen | |
+| 상기 | 上氣 | rising qi | qi surging to the head |
+| 탁기 | 濁氣 | turbid qi | |
+| 심화 | 心火 | heart-fire | |
+| 황정 | 黃庭 | Yellow Court | |
+| 무위 / 유위 | 無爲 / 有爲 | non-doing / intentional doing | |
 
 **Finger roles.** The index finger is input, the middle finger is control, the ring finger is output (Triple Burner), and the thumb is control (lungs). For the trigram finger key, see the [README](README.md).
 
