@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:07:03",
+ "generated": "2026-11-27T01:11:35",
  "source": "https://x.com/z9_s8_y_9",
  "voice": {
   "provider": "Fish Audio",
@@ -34,80 +34,126 @@
      "date_kst": "2026-11-18",
      "title": "A practice the Dragon Spirit is said to have taught: rib purification",
      "url": "https://x.com/z9_s8_y_9/status/2123057544998568036",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2123057544998568036.mp3",
+     "audio_duration": 158.77,
+     "script": "audio/01-2123057544998568036.txt"
     },
     {
      "id": "2122705308565008802",
      "date_kst": "2026-11-17",
      "title": "The method for opening the bright nature of the chest",
      "url": "https://x.com/z9_s8_y_9/status/2122705308565008802",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2122705308565008802.mp3",
+     "audio_duration": 44.46,
+     "script": "audio/02-2122705308565008802.txt"
     },
     {
      "id": "2124095402823602435",
      "date_kst": "2026-11-21",
      "title": "Why the chest tightens first: the secret of T5",
      "url": "https://x.com/z9_s8_y_9/status/2124095402823602435",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2124095402823602435.mp3",
+     "audio_duration": 152.27,
+     "script": "audio/03-2124095402823602435.txt"
     },
     {
      "id": "2124096916912824825",
      "date_kst": "2026-11-21",
      "title": "The misunderstanding of abdominal breathing",
      "url": "https://x.com/z9_s8_y_9/status/2124096916912824825",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2124096916912824825.mp3",
+     "audio_duration": 36.13,
+     "script": "audio/04-2124096916912824825.txt"
     },
     {
      "id": "2125092226925736003",
      "date_kst": "2026-11-24",
      "title": "Open the ribs before the belly",
      "url": "https://x.com/z9_s8_y_9/status/2125092226925736003",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2125092226925736003.mp3",
+     "audio_duration": 144.3,
+     "script": "audio/05-2125092226925736003.txt"
     },
     {
      "id": "2124110202287149064",
      "date_kst": "2026-11-21",
      "title": "Reply: warmth at L2–L3, tension at T5",
      "url": "https://x.com/z9_s8_y_9/status/2124110202287149064",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2124110202287149064.mp3",
+     "audio_duration": 41.8,
+     "script": "audio/06-2124110202287149064.txt"
     },
     {
      "id": "2125200655971447192",
      "date_kst": "2026-11-24",
      "title": "Reply: notice the ribcage; don't control the breath",
      "url": "https://x.com/z9_s8_y_9/status/2125200655971447192",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2125200655971447192.mp3",
+     "audio_duration": 29.26,
+     "script": "audio/07-2125200655971447192.txt"
     },
     {
      "id": "2125234376791461993",
      "date_kst": "2026-11-24",
      "title": "Reply: T5 → solar plexus → lower dantian, with Om",
      "url": "https://x.com/z9_s8_y_9/status/2125234376791461993",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/08-2125234376791461993.mp3",
+     "audio_duration": 35.92,
+     "script": "audio/08-2125234376791461993.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 77.51,
+    "full": "audio/rib-purification-full.mp3",
+    "full_duration": 726.6,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 77.51
+     },
+     {
+      "file": "audio/01-2123057544998568036.mp3",
+      "post_id": "2123057544998568036",
+      "duration": 158.77
+     },
+     {
+      "file": "audio/02-2122705308565008802.mp3",
+      "post_id": "2122705308565008802",
+      "duration": 44.46
+     },
+     {
+      "file": "audio/03-2124095402823602435.mp3",
+      "post_id": "2124095402823602435",
+      "duration": 152.27
+     },
+     {
+      "file": "audio/04-2124096916912824825.mp3",
+      "post_id": "2124096916912824825",
+      "duration": 36.13
+     },
+     {
+      "file": "audio/05-2125092226925736003.mp3",
+      "post_id": "2125092226925736003",
+      "duration": 144.3
+     },
+     {
+      "file": "audio/06-2124110202287149064.mp3",
+      "post_id": "2124110202287149064",
+      "duration": 41.8
+     },
+     {
+      "file": "audio/07-2125200655971447192.mp3",
+      "post_id": "2125200655971447192",
+      "duration": 29.26
+     },
+     {
+      "file": "audio/08-2125234376791461993.mp3",
+      "post_id": "2125234376791461993",
+      "duration": 35.92
+     }
+    ]
    },
    "related_media": [
     {
@@ -147,71 +193,112 @@
      "date_kst": "2026-11-21",
      "title": "How to cultivate the unmoving mind (부동심 不動心)",
      "url": "https://x.com/z9_s8_y_9/status/2124124210348097894",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2124124210348097894.mp3",
+     "audio_duration": 319.56,
+     "script": "audio/01-2124124210348097894.txt"
     },
     {
      "id": "2124311217833718252",
      "date_kst": "2026-11-22",
      "title": "Not a seesaw: activating both branches together",
      "url": "https://x.com/z9_s8_y_9/status/2124311217833718252",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2124311217833718252.mp3",
+     "audio_duration": 32.86,
+     "script": "audio/02-2124311217833718252.txt"
     },
     {
      "id": "2125721289575068003",
      "date_kst": "2026-11-26",
      "title": "Meditating only on the parasympathetic is half the job",
      "url": "https://x.com/z9_s8_y_9/status/2125721289575068003",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2125721289575068003.mp3",
+     "audio_duration": 187.38,
+     "script": "audio/03-2125721289575068003.txt"
     },
     {
      "id": "2125449913559585174",
      "date_kst": "2026-11-25",
      "title": "The real cheat code: release the sympathetic line in the back too",
      "url": "https://x.com/z9_s8_y_9/status/2125449913559585174",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2125449913559585174.mp3",
+     "audio_duration": 71.6,
+     "script": "audio/04-2125449913559585174.txt"
     },
     {
      "id": "2125568477163634820",
      "date_kst": "2026-11-25",
      "title": "Why \"Vagus Nerve Hacks\" Only Solve Half the Problem (The Front-Back Autonomic Symmetry)",
      "url": "https://x.com/z9_s8_y_9/status/2125568477163634820",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2125568477163634820.mp3",
+     "audio_duration": 151.98,
+     "script": "audio/05-2125568477163634820.txt"
     },
     {
      "id": "2125606840725860488",
      "date_kst": "2026-11-26",
      "title": "The Iron Wall: training for the wind (English)",
      "url": "https://x.com/z9_s8_y_9/status/2125606840725860488",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2125606840725860488.mp3",
+     "audio_duration": 47.2,
+     "script": "audio/06-2125606840725860488.txt"
     },
     {
      "id": "2126079015685627940",
      "date_kst": "2026-11-27",
      "title": "Zhongji: the switch for the fourth dhyāna",
      "url": "https://x.com/z9_s8_y_9/status/2126079015685627940",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2126079015685627940.mp3",
+     "audio_duration": 32.89,
+     "script": "audio/07-2126079015685627940.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 75.91,
+    "full": "audio/unmoving-mind-full.mp3",
+    "full_duration": 924.81,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 75.91
+     },
+     {
+      "file": "audio/01-2124124210348097894.mp3",
+      "post_id": "2124124210348097894",
+      "duration": 319.56
+     },
+     {
+      "file": "audio/02-2124311217833718252.mp3",
+      "post_id": "2124311217833718252",
+      "duration": 32.86
+     },
+     {
+      "file": "audio/03-2125721289575068003.mp3",
+      "post_id": "2125721289575068003",
+      "duration": 187.38
+     },
+     {
+      "file": "audio/04-2125449913559585174.mp3",
+      "post_id": "2125449913559585174",
+      "duration": 71.6
+     },
+     {
+      "file": "audio/05-2125568477163634820.mp3",
+      "post_id": "2125568477163634820",
+      "duration": 151.98
+     },
+     {
+      "file": "audio/06-2125606840725860488.mp3",
+      "post_id": "2125606840725860488",
+      "duration": 47.2
+     },
+     {
+      "file": "audio/07-2126079015685627940.mp3",
+      "post_id": "2126079015685627940",
+      "duration": 32.89
+     }
+    ]
    },
    "related_media": [
     {
@@ -252,80 +339,126 @@
      "date_kst": "2026-11-14",
      "title": "Feeling your heartbeat sharpens intuition",
      "url": "https://x.com/z9_s8_y_9/status/2121536288356798663",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2121536288356798663.mp3",
+     "audio_duration": 88.76,
+     "script": "audio/01-2121536288356798663.txt"
     },
     {
      "id": "2121568586980557002",
      "date_kst": "2026-11-14",
      "title": "Every heartbeat refreshes the self",
      "url": "https://x.com/z9_s8_y_9/status/2121568586980557002",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2121568586980557002.mp3",
+     "audio_duration": 51.59,
+     "script": "audio/02-2121568586980557002.txt"
     },
     {
      "id": "2122236981744996478",
      "date_kst": "2026-11-16",
      "title": "Feeling the pulse between thumb and index finger: the self that is born and dies",
      "url": "https://x.com/z9_s8_y_9/status/2122236981744996478",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2122236981744996478.mp3",
+     "audio_duration": 91.72,
+     "script": "audio/03-2122236981744996478.txt"
     },
     {
      "id": "2124315987566817741",
      "date_kst": "2026-11-22",
      "title": "The heart's little brain and the awakening of the heart-soul",
      "url": "https://x.com/z9_s8_y_9/status/2124315987566817741",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2124315987566817741.mp3",
+     "audio_duration": 186.96,
+     "script": "audio/04-2124315987566817741.txt"
     },
     {
      "id": "2125129006152589574",
      "date_kst": "2026-11-24",
      "title": "Feel the right atrium fill: the awakening of the heart-soul",
      "url": "https://x.com/z9_s8_y_9/status/2125129006152589574",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2125129006152589574.mp3",
+     "audio_duration": 148.43,
+     "script": "audio/05-2125129006152589574.txt"
     },
     {
      "id": "2125397879498088910",
      "date_kst": "2026-11-25",
      "title": "Just once tonight, breathe into the right side of your chest",
      "url": "https://x.com/z9_s8_y_9/status/2125397879498088910",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2125397879498088910.mp3",
+     "audio_duration": 89.63,
+     "script": "audio/06-2125397879498088910.txt"
     },
     {
      "id": "2125134647520907272",
      "date_kst": "2026-11-24",
      "title": "Reply: oxygen stored in the muscles",
      "url": "https://x.com/z9_s8_y_9/status/2125134647520907272",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2125134647520907272.mp3",
+     "audio_duration": 29.05,
+     "script": "audio/07-2125134647520907272.txt"
     },
     {
      "id": "2125803981629018323",
      "date_kst": "2026-11-26",
      "title": "Reply: the breath enters the heart from below",
      "url": "https://x.com/z9_s8_y_9/status/2125803981629018323",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/08-2125803981629018323.mp3",
+     "audio_duration": 15.33,
+     "script": "audio/08-2125803981629018323.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 71.13,
+    "full": "audio/heart-soul-full.mp3",
+    "full_duration": 778.79,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 71.13
+     },
+     {
+      "file": "audio/01-2121536288356798663.mp3",
+      "post_id": "2121536288356798663",
+      "duration": 88.76
+     },
+     {
+      "file": "audio/02-2121568586980557002.mp3",
+      "post_id": "2121568586980557002",
+      "duration": 51.59
+     },
+     {
+      "file": "audio/03-2122236981744996478.mp3",
+      "post_id": "2122236981744996478",
+      "duration": 91.72
+     },
+     {
+      "file": "audio/04-2124315987566817741.mp3",
+      "post_id": "2124315987566817741",
+      "duration": 186.96
+     },
+     {
+      "file": "audio/05-2125129006152589574.mp3",
+      "post_id": "2125129006152589574",
+      "duration": 148.43
+     },
+     {
+      "file": "audio/06-2125397879498088910.mp3",
+      "post_id": "2125397879498088910",
+      "duration": 89.63
+     },
+     {
+      "file": "audio/07-2125134647520907272.mp3",
+      "post_id": "2125134647520907272",
+      "duration": 29.05
+     },
+     {
+      "file": "audio/08-2125803981629018323.mp3",
+      "post_id": "2125803981629018323",
+      "duration": 15.33
+     }
+    ]
    },
    "related_media": [],
    "readme": "collections/heart-soul/README.md",
