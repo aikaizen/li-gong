@@ -64,6 +64,31 @@ These are the renderings used across the translations, kept the same in every fi
 | 황정 | 黃庭 | Yellow Court | |
 | 무위 / 유위 | 無爲 / 有爲 | non-doing / intentional doing | |
 | 구선 (스님) | | Guseon | Korean Zen teacher he credits with systematizing the method; spelled "Guseon" in his English writing |
+| 업식 | 業識 | karmic imprints | emotions and traumas stored in organs, bones and nerves |
+| 선천원기 | 先天元氣 | Former Heaven original qi | his term for kundalini |
+| 신화 / 수중지화 | 腎火 / 水中之火 | kidney fire / the fire within water | |
+| 음화 | 陰火 | yin-fire | cold stagnation, a practice derailment |
+| 축기 | 蓄氣 | accumulating qi | |
+| 노궁 | 勞宮 | Laogong | center of the palm |
+| 용천 | 湧泉 | Yongquan | sole of the foot |
+| 백회 | 百會 | Baihui | crown |
+| 대추 | 大椎 | Dazhui | below C7, at T1 |
+| 오심 | 五心 | the five hearts | two palms, two soles, crown |
+| 중극 | 中極 | Zhongji | in his usage, the inner (ventral) side of the spine at T5, not the CV3 point |
+| 중황 | 中黃 | Zhonghuang | the center of the head: thalamus and third ventricle |
+| 미심 / 옥침 | 眉心 / 玉枕 | Mixin (between the eyebrows) / Yuzhen (back of the head) | |
+| 가슴바탕 | | chest ground | 1 cm above the solar plexus, 5 cm in |
+| 한물건 | | the One Thing | the energy seed that later becomes the yang body |
+| 무념 / 무심 | 無念 / 無心 | no-thought / no-mind | |
+| 무심의 벽 / 무심벽 | 無心壁 | wall of no-mind | inhibitory gate he places at the thalamic level, behind the brow |
+| 적멸상 | 寂滅相 | form of quiescent extinction | |
+| 심혼 | 心魂 | heart-soul | |
+| 혼침 | 昏沈 | dullness | drowsy sinking in meditation |
+| 육정옥녀 / 육갑신장 | 六丁玉女 / 六甲神將 | Six Ding Jade Maidens / Six Jia Generals | |
+| 순 | 旬 | decade | the ten-day cycle of the sixty Jiazi (e.g. 갑신순, the Jia-Shen decade) |
+| 공망 / 출공 | 空亡 / 出空 | void / leaving the void | |
+| 일진 | 日辰 | day pillar | the stem-branch of the day |
+| 갈애 | 渴愛 | craving | |
 
 **Finger roles.** The index finger is input, the middle finger is control, the ring finger is output (Triple Burner), and the thumb is control (lungs). For the trigram finger key, see the [README](README.md).
 
