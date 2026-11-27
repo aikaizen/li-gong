@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:11:35",
+ "generated": "2026-11-27T01:29:12",
  "source": "https://x.com/z9_s8_y_9",
  "voice": {
   "provider": "Fish Audio",
@@ -497,143 +497,224 @@
      "date_kst": "2026-11-18",
      "title": "[Korean Meditation] A practice that goes beyond meditation to change the structure of the body",
      "url": "https://x.com/z9_s8_y_9/status/2122855871235674340",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2122855871235674340.mp3",
+     "audio_duration": 477.81,
+     "script": "audio/01-2122855871235674340.txt"
     },
     {
      "id": "2117502269226967363",
      "date_kst": "2026-11-03",
      "title": "The danger of practice built only on relaxation and accumulating qi",
      "url": "https://x.com/z9_s8_y_9/status/2117502269226967363",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2117502269226967363.mp3",
+     "audio_duration": 71.58,
+     "script": "audio/02-2117502269226967363.txt"
     },
     {
      "id": "2117568545739444364",
      "date_kst": "2026-11-03",
      "title": "Why a cup of Pu'er before and after dantian breathing helps",
      "url": "https://x.com/z9_s8_y_9/status/2117568545739444364",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2117568545739444364.mp3",
+     "audio_duration": 112.93,
+     "script": "audio/03-2117568545739444364.txt"
     },
     {
      "id": "2120025950444572813",
      "date_kst": "2026-11-10",
      "title": "The backlash of a carelessly awakened kundalini",
      "url": "https://x.com/z9_s8_y_9/status/2120025950444572813",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2120025950444572813.mp3",
+     "audio_duration": 125.0,
+     "script": "audio/04-2120025950444572813.txt"
     },
     {
      "id": "2120493794915443011",
      "date_kst": "2026-11-11",
      "title": "Reply: kundalini as the Former Heaven original qi",
      "url": "https://x.com/z9_s8_y_9/status/2120493794915443011",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2120493794915443011.mp3",
+     "audio_duration": 17.45,
+     "script": "audio/05-2120493794915443011.txt"
     },
     {
      "id": "2117581896452571384",
      "date_kst": "2026-11-03",
      "title": "Kidney fire: the fire within water",
      "url": "https://x.com/z9_s8_y_9/status/2117581896452571384",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2117581896452571384.mp3",
+     "audio_duration": 155.25,
+     "script": "audio/06-2117581896452571384.txt"
     },
     {
      "id": "2118561408929702048",
      "date_kst": "2026-11-06",
      "title": "Waking Mingmen and the kidneys to form the Yellow Court: a step-by-step method",
      "url": "https://x.com/z9_s8_y_9/status/2118561408929702048",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2118561408929702048.mp3",
+     "audio_duration": 522.06,
+     "script": "audio/07-2118561408929702048.txt"
     },
     {
      "id": "2123608540325752883",
      "date_kst": "2026-11-20",
      "title": "The in-breath that makes kindling for Mingmen",
      "url": "https://x.com/z9_s8_y_9/status/2123608540325752883",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/08-2123608540325752883.mp3",
+     "audio_duration": 115.54,
+     "script": "audio/08-2123608540325752883.txt"
     },
     {
      "id": "2122923788211986645",
      "date_kst": "2026-11-18",
      "title": "Making the passage between the lower dantian and Mingmen",
      "url": "https://x.com/z9_s8_y_9/status/2122923788211986645",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/09-2122923788211986645.mp3",
+     "audio_duration": 45.92,
+     "script": "audio/09-2122923788211986645.txt"
     },
     {
      "id": "2124359827371753820",
      "date_kst": "2026-11-22",
      "title": "The energy method of the yellow moon rising below the belly",
      "url": "https://x.com/z9_s8_y_9/status/2124359827371753820",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/10-2124359827371753820.mp3",
+     "audio_duration": 27.61,
+     "script": "audio/10-2124359827371753820.txt"
     },
     {
      "id": "2124676599002128425",
      "date_kst": "2026-11-23",
      "title": "The One Thing: the energy seed in the empty jar",
      "url": "https://x.com/z9_s8_y_9/status/2124676599002128425",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/11-2124676599002128425.mp3",
+     "audio_duration": 115.07,
+     "script": "audio/11-2124676599002128425.txt"
     },
     {
      "id": "2124682926491336710",
      "date_kst": "2026-11-23",
      "title": "Why \"relax\" doesn't work in breathing and meditation",
      "url": "https://x.com/z9_s8_y_9/status/2124682926491336710",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/12-2124682926491336710.mp3",
+     "audio_duration": 93.34,
+     "script": "audio/12-2124682926491336710.txt"
     },
     {
      "id": "2124752457586929824",
      "date_kst": "2026-11-23",
      "title": "Energy practice: the fastest highway into absorption",
      "url": "https://x.com/z9_s8_y_9/status/2124752457586929824",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/13-2124752457586929824.mp3",
+     "audio_duration": 72.67,
+     "script": "audio/13-2124752457586929824.txt"
     },
     {
      "id": "2124333535507132564",
      "date_kst": "2026-11-22",
      "title": "Reply: energy waking in Mingmen and running along the microtubules",
      "url": "https://x.com/z9_s8_y_9/status/2124333535507132564",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/14-2124333535507132564.mp3",
+     "audio_duration": 15.93,
+     "script": "audio/14-2124333535507132564.txt"
     },
     {
      "id": "2117781637220253986",
      "date_kst": "2026-11-04",
      "title": "Mitochondria that give off light",
      "url": "https://x.com/z9_s8_y_9/status/2117781637220253986",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/15-2117781637220253986.mp3",
+     "audio_duration": 38.92,
+     "script": "audio/15-2117781637220253986.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 76.36,
+    "full": "audio/mingmen-yellow-court-full.mp3",
+    "full_duration": 2095.05,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 76.36
+     },
+     {
+      "file": "audio/01-2122855871235674340.mp3",
+      "post_id": "2122855871235674340",
+      "duration": 477.81
+     },
+     {
+      "file": "audio/02-2117502269226967363.mp3",
+      "post_id": "2117502269226967363",
+      "duration": 71.58
+     },
+     {
+      "file": "audio/03-2117568545739444364.mp3",
+      "post_id": "2117568545739444364",
+      "duration": 112.93
+     },
+     {
+      "file": "audio/04-2120025950444572813.mp3",
+      "post_id": "2120025950444572813",
+      "duration": 125.0
+     },
+     {
+      "file": "audio/05-2120493794915443011.mp3",
+      "post_id": "2120493794915443011",
+      "duration": 17.45
+     },
+     {
+      "file": "audio/06-2117581896452571384.mp3",
+      "post_id": "2117581896452571384",
+      "duration": 155.25
+     },
+     {
+      "file": "audio/07-2118561408929702048.mp3",
+      "post_id": "2118561408929702048",
+      "duration": 522.06
+     },
+     {
+      "file": "audio/08-2123608540325752883.mp3",
+      "post_id": "2123608540325752883",
+      "duration": 115.54
+     },
+     {
+      "file": "audio/09-2122923788211986645.mp3",
+      "post_id": "2122923788211986645",
+      "duration": 45.92
+     },
+     {
+      "file": "audio/10-2124359827371753820.mp3",
+      "post_id": "2124359827371753820",
+      "duration": 27.61
+     },
+     {
+      "file": "audio/11-2124676599002128425.mp3",
+      "post_id": "2124676599002128425",
+      "duration": 115.07
+     },
+     {
+      "file": "audio/12-2124682926491336710.mp3",
+      "post_id": "2124682926491336710",
+      "duration": 93.34
+     },
+     {
+      "file": "audio/13-2124752457586929824.mp3",
+      "post_id": "2124752457586929824",
+      "duration": 72.67
+     },
+     {
+      "file": "audio/14-2124333535507132564.mp3",
+      "post_id": "2124333535507132564",
+      "duration": 15.93
+     },
+     {
+      "file": "audio/15-2117781637220253986.mp3",
+      "post_id": "2117781637220253986",
+      "duration": 38.92
+     }
+    ]
    },
    "related_media": [
     {
