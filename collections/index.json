@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:29:12",
+ "generated": "2026-11-27T01:49:44",
  "source": "https://x.com/z9_s8_y_9",
  "voice": {
   "provider": "Fish Audio",
@@ -845,107 +845,168 @@
      "date_kst": "2026-11-05",
      "title": "The character 炁: fire inside nothingness",
      "url": "https://x.com/z9_s8_y_9/status/2118202700626288779",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2118202700626288779.mp3",
+     "audio_duration": 153.03,
+     "script": "audio/01-2118202700626288779.txt"
     },
     {
      "id": "2120750067451920389",
      "date_kst": "2026-11-12",
      "title": "The practice chart of the Quanzhen Longmen Southern school that opens the spirit eye",
      "url": "https://x.com/z9_s8_y_9/status/2120750067451920389",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2120750067451920389.mp3",
+     "audio_duration": 61.44,
+     "script": "audio/02-2120750067451920389.txt"
     },
     {
      "id": "2121053626718372162",
      "date_kst": "2026-11-13",
      "title": "The wall of no-mind and the joy of the bright nature",
      "url": "https://x.com/z9_s8_y_9/status/2121053626718372162",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2121053626718372162.mp3",
+     "audio_duration": 218.46,
+     "script": "audio/03-2121053626718372162.txt"
     },
     {
      "id": "2121374067366490564",
      "date_kst": "2026-11-14",
      "title": "Where the wall of no-mind stands: the GABA gate of the thalamus",
      "url": "https://x.com/z9_s8_y_9/status/2121374067366490564",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2121374067366490564.mp3",
+     "audio_duration": 44.83,
+     "script": "audio/04-2121374067366490564.txt"
     },
     {
      "id": "2121054893540806839",
      "date_kst": "2026-11-13",
      "title": "Lacan's surplus enjoyment and the wall of no-mind",
      "url": "https://x.com/z9_s8_y_9/status/2121054893540806839",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2121054893540806839.mp3",
+     "audio_duration": 78.5,
+     "script": "audio/05-2121054893540806839.txt"
     },
     {
      "id": "2121145048029135333",
      "date_kst": "2026-11-13",
      "title": "Spinoza's joy and the bright nature",
      "url": "https://x.com/z9_s8_y_9/status/2121145048029135333",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2121145048029135333.mp3",
+     "audio_duration": 61.26,
+     "script": "audio/06-2121145048029135333.txt"
     },
     {
      "id": "2122549418721476779",
      "date_kst": "2026-11-17",
      "title": "How the bright nature falls into ignorance",
      "url": "https://x.com/z9_s8_y_9/status/2122549418721476779",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2122549418721476779.mp3",
+     "audio_duration": 19.88,
+     "script": "audio/07-2122549418721476779.txt"
     },
     {
      "id": "2125098723206459861",
      "date_kst": "2026-11-24",
      "title": "Stop Fighting Your Thoughts: The Korean “Spiral Breathwork” Protocol for Thalamic Calm",
      "url": "https://x.com/z9_s8_y_9/status/2125098723206459861",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/08-2125098723206459861.mp3",
+     "audio_duration": 297.59,
+     "script": "audio/08-2125098723206459861.txt"
     },
     {
      "id": "2125626752294941011",
      "date_kst": "2026-11-26",
      "title": "Composure is a trained neural boundary (English)",
      "url": "https://x.com/z9_s8_y_9/status/2125626752294941011",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/09-2125626752294941011.mp3",
+     "audio_duration": 41.9,
+     "script": "audio/09-2125626752294941011.txt"
     },
     {
      "id": "2125608835201323133",
      "date_kst": "2026-11-26",
      "title": "No-thought is precision under gravity (English)",
      "url": "https://x.com/z9_s8_y_9/status/2125608835201323133",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/10-2125608835201323133.mp3",
+     "audio_duration": 35.74,
+     "script": "audio/10-2125608835201323133.txt"
     },
     {
      "id": "2125612491334173132",
      "date_kst": "2026-11-26",
      "title": "The goat on the cliff: a nervous system with zero latency (English)",
      "url": "https://x.com/z9_s8_y_9/status/2125612491334173132",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/11-2125612491334173132.mp3",
+     "audio_duration": 47.88,
+     "script": "audio/11-2125612491334173132.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 68.28,
+    "full": "audio/wall-of-no-mind-full.mp3",
+    "full_duration": 1137.29,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 68.28
+     },
+     {
+      "file": "audio/01-2118202700626288779.mp3",
+      "post_id": "2118202700626288779",
+      "duration": 153.03
+     },
+     {
+      "file": "audio/02-2120750067451920389.mp3",
+      "post_id": "2120750067451920389",
+      "duration": 61.44
+     },
+     {
+      "file": "audio/03-2121053626718372162.mp3",
+      "post_id": "2121053626718372162",
+      "duration": 218.46
+     },
+     {
+      "file": "audio/04-2121374067366490564.mp3",
+      "post_id": "2121374067366490564",
+      "duration": 44.83
+     },
+     {
+      "file": "audio/05-2121054893540806839.mp3",
+      "post_id": "2121054893540806839",
+      "duration": 78.5
+     },
+     {
+      "file": "audio/06-2121145048029135333.mp3",
+      "post_id": "2121145048029135333",
+      "duration": 61.26
+     },
+     {
+      "file": "audio/07-2122549418721476779.mp3",
+      "post_id": "2122549418721476779",
+      "duration": 19.88
+     },
+     {
+      "file": "audio/08-2125098723206459861.mp3",
+      "post_id": "2125098723206459861",
+      "duration": 297.59
+     },
+     {
+      "file": "audio/09-2125626752294941011.mp3",
+      "post_id": "2125626752294941011",
+      "duration": 41.9
+     },
+     {
+      "file": "audio/10-2125608835201323133.mp3",
+      "post_id": "2125608835201323133",
+      "duration": 35.74
+     },
+     {
+      "file": "audio/11-2125612491334173132.mp3",
+      "post_id": "2125612491334173132",
+      "duration": 47.88
+     }
+    ]
    },
    "related_media": [],
    "readme": "collections/wall-of-no-mind/README.md",
@@ -979,98 +1040,154 @@
      "date_kst": "2026-11-02",
      "title": "Geng-Chen day: two great gears behind the clash",
      "url": "https://x.com/z9_s8_y_9/status/2117077032685420671",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/01-2117077032685420671.mp3",
+     "audio_duration": 97.44,
+     "script": "audio/01-2117077032685420671.txt"
     },
     {
      "id": "2117866396935950353",
      "date_kst": "2026-11-04",
      "title": "Ren-Wu day: water above, fire below",
      "url": "https://x.com/z9_s8_y_9/status/2117866396935950353",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/02-2117866396935950353.mp3",
+     "audio_duration": 109.77,
+     "script": "audio/02-2117866396935950353.txt"
     },
     {
      "id": "2117870815693967861",
      "date_kst": "2026-11-04",
      "title": "Trump's chart on the Ren-Wu day: the paradox of wood feeding fire",
      "url": "https://x.com/z9_s8_y_9/status/2117870815693967861",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/03-2117870815693967861.mp3",
+     "audio_duration": 287.43,
+     "script": "audio/03-2117870815693967861.txt"
     },
     {
      "id": "2118161084561694999",
      "date_kst": "2026-11-05",
      "title": "Gui-Wei day: closing the vault of the Jia-Xu decade",
      "url": "https://x.com/z9_s8_y_9/status/2118161084561694999",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/04-2118161084561694999.mp3",
+     "audio_duration": 177.08,
+     "script": "audio/04-2118161084561694999.txt"
     },
     {
      "id": "2118371627159445662",
      "date_kst": "2026-11-06",
      "title": "Jia-Shen day: the changing of the decade",
      "url": "https://x.com/z9_s8_y_9/status/2118371627159445662",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/05-2118371627159445662.mp3",
+     "audio_duration": 78.34,
+     "script": "audio/05-2118371627159445662.txt"
     },
     {
      "id": "2118517341457904096",
      "date_kst": "2026-11-06",
      "title": "Jia-Shen day: turning the four births into a turbine",
      "url": "https://x.com/z9_s8_y_9/status/2118517341457904096",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/06-2118517341457904096.mp3",
+     "audio_duration": 109.11,
+     "script": "audio/06-2118517341457904096.txt"
     },
     {
      "id": "2118925298481947128",
      "date_kst": "2026-11-07",
      "title": "The Ding-You Jade Maiden and the breath of the chest",
      "url": "https://x.com/z9_s8_y_9/status/2118925298481947128",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/07-2118925298481947128.mp3",
+     "audio_duration": 87.25,
+     "script": "audio/07-2118925298481947128.txt"
     },
     {
      "id": "2119012499810849050",
      "date_kst": "2026-11-07",
      "title": "'97 Yiwu wild-arbor green cake: the year of the Ding-Chou Jade Maiden",
      "url": "https://x.com/z9_s8_y_9/status/2119012499810849050",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/08-2119012499810849050.mp3",
+     "audio_duration": 85.34,
+     "script": "audio/08-2119012499810849050.txt"
     },
     {
      "id": "2119244247182557468",
      "date_kst": "2026-11-08",
      "title": "Bing-Xu day: '87 White Needle Golden Lotus, and the One Thing rising and falling",
      "url": "https://x.com/z9_s8_y_9/status/2119244247182557468",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/09-2119244247182557468.mp3",
+     "audio_duration": 174.32,
+     "script": "audio/09-2119244247182557468.txt"
     },
     {
      "id": "2119620402020544971",
      "date_kst": "2026-11-09",
      "title": "Ding-Hai day: the Jade Maiden of the decade descends in person",
      "url": "https://x.com/z9_s8_y_9/status/2119620402020544971",
-     "audio": null,
-     "audio_duration": null,
-     "script": null
+     "audio": "audio/10-2119620402020544971.mp3",
+     "audio_duration": 131.92,
+     "script": "audio/10-2119620402020544971.txt"
     }
    ],
    "audio": {
-    "intro": null,
-    "intro_duration": null,
-    "full": null,
-    "full_duration": null,
-    "clips": []
+    "intro": "audio/00-intro.mp3",
+    "intro_duration": 56.19,
+    "full": "audio/qimen-days-full.mp3",
+    "full_duration": 1401.94,
+    "clips": [
+     {
+      "file": "audio/00-intro.mp3",
+      "post_id": null,
+      "duration": 56.19
+     },
+     {
+      "file": "audio/01-2117077032685420671.mp3",
+      "post_id": "2117077032685420671",
+      "duration": 97.44
+     },
+     {
+      "file": "audio/02-2117866396935950353.mp3",
+      "post_id": "2117866396935950353",
+      "duration": 109.77
+     },
+     {
+      "file": "audio/03-2117870815693967861.mp3",
+      "post_id": "2117870815693967861",
+      "duration": 287.43
+     },
+     {
+      "file": "audio/04-2118161084561694999.mp3",
+      "post_id": "2118161084561694999",
+      "duration": 177.08
+     },
+     {
+      "file": "audio/05-2118371627159445662.mp3",
+      "post_id": "2118371627159445662",
+      "duration": 78.34
+     },
+     {
+      "file": "audio/06-2118517341457904096.mp3",
+      "post_id": "2118517341457904096",
+      "duration": 109.11
+     },
+     {
+      "file": "audio/07-2118925298481947128.mp3",
+      "post_id": "2118925298481947128",
+      "duration": 87.25
+     },
+     {
+      "file": "audio/08-2119012499810849050.mp3",
+      "post_id": "2119012499810849050",
+      "duration": 85.34
+     },
+     {
+      "file": "audio/09-2119244247182557468.mp3",
+      "post_id": "2119244247182557468",
+      "duration": 174.32
+     },
+     {
+      "file": "audio/10-2119620402020544971.mp3",
+      "post_id": "2119620402020544971",
+      "duration": 131.92
+     }
+    ]
    },
    "related_media": [],
    "readme": "collections/qimen-days/README.md",

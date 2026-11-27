@@ -9,7 +9,7 @@ The latest teachings of 마리지천 摩利支天 ([@z9_s8_y_9](https://x.com/z9
 | 3 | [The Heart-Soul: Heartbeat, the Right Atrium and the Self](heart-soul/README.md)<br>심혼 心魂 | 8 | 2026-11-14 to 2026-11-26 | [12:59](heart-soul/audio/heart-soul-full.mp3) |
 | 4 | [Mingmen, Kidney Fire and the Yellow Court](mingmen-yellow-court/README.md)<br>명문 命門 · 신화 腎火 · 황정 黃庭 | 15 | 2026-11-03 to 2026-11-23 | [34:55](mingmen-yellow-court/audio/mingmen-yellow-court-full.mp3) |
 | 5 | [The Membrane Path and the Finger Switches](membrane-and-finger-switches/README.md)<br>역근세수 易筋洗髓 · 막 膜 · 검지 관 觀 | 4 | 2026-11-04 to 2026-11-14 | [7:16](membrane-and-finger-switches/audio/membrane-and-finger-switches-full.mp3) |
-| 6 | [The Wall of No-Mind, the Thalamus and the Bright Nature](wall-of-no-mind/README.md)<br>무심의 벽 無心壁 · 밝은 성품 · 중황 中黃 | 11 | 2026-11-05 to 2026-11-26 | (pending) |
-| 7 | [Days of the Jade Maidens: Reading the Qimen Calendar in the Body](qimen-days/README.md)<br>일진 日辰 · 육정옥녀 六丁玉女 | 10 | 2026-11-02 to 2026-11-09 | (pending) |
+| 6 | [The Wall of No-Mind, the Thalamus and the Bright Nature](wall-of-no-mind/README.md)<br>무심의 벽 無心壁 · 밝은 성품 · 중황 中黃 | 11 | 2026-11-05 to 2026-11-26 | [18:57](wall-of-no-mind/audio/wall-of-no-mind-full.mp3) |
+| 7 | [Days of the Jade Maidens: Reading the Qimen Calendar in the Body](qimen-days/README.md)<br>일진 日辰 · 육정옥녀 六丁玉女 | 10 | 2026-11-02 to 2026-11-09 | [23:22](qimen-days/audio/qimen-days-full.mp3) |
 
 Source posts so far: Nov 2–27, 2026. Translations of every day, including posts not in any collection, are in [graph/translated/](../graph/translated/README.md).
