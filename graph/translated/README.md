@@ -5,6 +5,7 @@ This folder holds English translations of 마리지천's ([@z9_s8_y_9](https://x
 **Hand-seal key used throughout (신기문 身奇門):** each hand forms a trigram by touching fingers to the thumb. A finger touching the thumb is a solid (yang) line, and a lifted finger is a broken (yin) line. The index finger is the TOP line, the middle finger the middle line, and the ring finger the BOTTOM line. So Qian ☰ is all three fingers on the thumb, Zhen ☳ is the ring finger alone, Gen ☶ is the index alone, Dui ☱ is middle + ring, Xun ☴ is index + middle, and Li ☲ is index + ring with the middle lifted. Two hands together make a hexagram: the right hand gives the upper (outer) trigram and the left hand the lower (inner) one. For example, Heaven-Wind, Coming to Meet (천풍구 天風姤 ䷫) is right-hand Qian over left-hand Xun. In internal alchemy, he adds, the lower trigram stands for Former Heaven (선천 先天) and the upper for Later Heaven (후천 後天) (post of Oct 26, 2026). *(This key was corrected on Oct 31, 2026. An earlier version had the hands and the line order reversed.)*
 
 ## Index
+- [2026-11-24](2026/11/2026-11-24.md): 1 post (1 main; an X Article he wrote in English; other posts that day not yet translated)
 - [2026-11-21](2026/11/2026-11-21.md): 1 post (1 main) · [diagrams](../../notes/diagrams/2026-11-21-unmoving-mind/README.md)
 - [2026-11-18](2026/11/2026-11-18.md): 1 post (1 main; translated as context for 2026-11-21, other posts that day not yet translated)
 - [2026-11-01](2026/11/2026-11-01.md): 1 post (0 main, 1 reply)

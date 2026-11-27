@@ -63,6 +63,7 @@ These are the renderings used across the translations, kept the same in every fi
 | 심화 | 心火 | heart-fire | |
 | 황정 | 黃庭 | Yellow Court | |
 | 무위 / 유위 | 無爲 / 有爲 | non-doing / intentional doing | |
+| 구선 (스님) | | Guseon | Korean Zen teacher he credits with systematizing the method; spelled "Guseon" in his English writing |
 
 **Finger roles.** The index finger is input, the middle finger is control, the ring finger is output (Triple Burner), and the thumb is control (lungs). For the trigram finger key, see the [README](README.md).
 
