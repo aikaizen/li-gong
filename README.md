@@ -8,6 +8,9 @@ A living study of Daoist internal alchemy (內丹), centered on **取坎填離 (
 ## Layout
 | Path | What's there |
 |---|---|
+| `collections/` | Topic collections of the latest teachings: overview, full English text in reading order, and narrated audio (one mp3 per post plus a full-length mp3), with `index.json` for the future website |
+| `graph/translated/` | English translations, one file per Korea-time day, with a glossary |
+| `videos/rib-purification/` | Real-time rib-purification / iron-wall follow-along video (5:44), with source |
 | `videos/five-gates/` | The Five Gates of Opening the Top: a 3:22 demo and a 16:13 real-time follow-along video, plus their source code and stills |
 | `graph/raw/` | Full harvested archive: every post (`posts.jsonl`), the posts they quote or reply to (`referenced.jsonl`), and media records with image URLs (`media.jsonl`) |
 | `graph/scripts/` | Harvest, ingest and analysis scripts for the post archive |
@@ -28,3 +31,4 @@ Every post is credited to and linked back to its original author, 마리지천 (
 - [ ] Text extraction from the images on truncated posts
 - [ ] Concept and claim extraction, and graph export (JSON/GraphML)
 - [ ] Concept and practice notes
+- [x] Topic collections with audio (Nov 2026 teachings), see [collections/](collections/README.md)
